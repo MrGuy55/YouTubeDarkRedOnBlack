@@ -4,7 +4,7 @@ Dark Red on black YouTube theme
 <h1>Installation</h1>
 Stylus is recommended for this theme.
 
-If you're on Firefox or a Firefox based browser such as LibreWolf (Like I am 😎), install from https://addons.mozilla.org/en-US/firefox/addon/styl-us/
+If you're on Firefox or a Firefox based browser such as LibreWolf, install from https://addons.mozilla.org/en-US/firefox/addon/styl-us/
 
 If you're on Chrome or any Chromium based browser go to https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne
 
