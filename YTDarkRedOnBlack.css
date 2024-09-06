@@ -1,0 +1,42 @@
+/*Red YouTube Theme Hex: #40010b (Dark Red) #ff052c (Bright Red) */
+html [dark], [dark] {
+    --yt-spec-base-background: #000000 !important;
+    --yt-spec-additive-background: #40010b !important;
+    --yt-spec-raised-background: #40010b !important;
+    --yt-spec-button-chip-background-hover: #770013 !important;
+}
+
+.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal {
+    background-color: #40010b !important;
+}
+
+.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal:hover {
+    background-color: #770013 !important;
+}
+
+yt-mealbar-promo-renderer#mealbar-promo-renderer, .ytdl-notification.opened {
+	display: none 
+}
+
+/*html [dark], [dark] {
+    --yt-spec-base-background: #171724 !important;
+    --yt-spec-additive-background: #f2cccc78 !important;
+    --yt-spec-raised-background: #f2cccc78 !important;
+    --yt-spec-button-chip-background-hover: #f2ccccb3 !important;
+    --yt-spec-menu-background: #1D1D2E !important;
+}
+
+.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal {
+    background-color: #f2cccc78 !important;
+}
+
+.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal:hover {
+    background-color: #f2ccccb3 !important;
+}
+
+yt-mealbar-promo-renderer#mealbar-promo-renderer, .ytdl-notification.opened {
+	display: none 
+}
+#container.ytd-searchbox, ytd-menu-popup-renderer tp-yt-paper-listbox.ytd-menu-popup-renderer {
+    background-color: #1D1D2E
+}*/
